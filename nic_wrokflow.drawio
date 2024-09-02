@@ -760,7 +760,7 @@
             <mxPoint x="10" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wYJrxyhoSdgwNmsz03KT-344" value="Dispatcher Setup" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="1">
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-344" value="Dispatcher Setup" style="html=1;shadow=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;textShadow=0;labelBackgroundColor=none;labelBorderColor=none;perimeterSpacing=1;" vertex="1" parent="1">
           <mxGeometry x="3120" y="1008" width="965" height="682" as="geometry" />
         </mxCell>
         <mxCell id="wYJrxyhoSdgwNmsz03KT-345" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-344">
@@ -788,7 +788,7 @@
             <mxPoint x="-263" y="-64" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wYJrxyhoSdgwNmsz03KT-358" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-344">
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-358" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;snapToPoint=0;comic=0;fillStyle=auto;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-344">
           <mxGeometry x="37.23228346456693" y="233.01666666666665" width="882.1771653543308" height="322.05555555555554" as="geometry" />
         </mxCell>
         <mxCell id="wYJrxyhoSdgwNmsz03KT-359" value="Assign Category to dispatcher" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=20;fontSize=14;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-358">
