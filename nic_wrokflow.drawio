@@ -1705,6 +1705,42 @@
         <mxCell id="wYJrxyhoSdgwNmsz03KT-1146" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;align=left;spacing=15;fontSize=14;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
           <mxGeometry x="900" y="300" width="190" height="40.5" as="geometry" />
         </mxCell>
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-1147" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=1;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
+          <mxGeometry x="71.97" y="440" width="1318.03" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-1148" value="&amp;nbsp; Job Details" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
+          <mxGeometry x="74" y="442" width="1316" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-1149" value="Details and info based job category and follow up reasons" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
+          <mxGeometry x="292" y="510" width="658" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-1170" value="Job Task 1" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#64BBE2;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
+          <mxGeometry x="141" y="680" width="519" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-1171" value="1" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
+          <mxGeometry x="111" y="670" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-1172" value="Job Task 2" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#F8C382;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
+          <mxGeometry x="141" y="745" width="519" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-1173" value="2" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#F2931E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
+          <mxGeometry x="111" y="735" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-1174" value="Job Task 3" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#F08E81;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
+          <mxGeometry x="141" y="810" width="519" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-1175" value="3" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#AE4132;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
+          <mxGeometry x="111" y="800" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-1176" value="Job Task 4" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#5D7F99;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
+          <mxGeometry x="141" y="875" width="519" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-1177" value="4" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#23445D;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
+          <mxGeometry x="111" y="865" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-1180" value="&amp;nbsp; &amp;nbsp;Job Task Sequence Flow" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#E1F5E0;strokeColor=#82b366;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
+          <mxGeometry x="74" y="630" width="1316" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="wYJrxyhoSdgwNmsz03KT-1133" value="ID" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1028">
           <mxGeometry x="84.14" y="108" width="57.79" height="40.5" as="geometry" />
         </mxCell>
