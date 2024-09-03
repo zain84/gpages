@@ -1192,6 +1192,15 @@
         <mxCell id="wYJrxyhoSdgwNmsz03KT-516" value="col-form-label" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-632">
           <mxGeometry x="93.92338095238068" width="258.28929761904743" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-633" value="" style="group" vertex="1" connectable="0" parent="wYJrxyhoSdgwNmsz03KT-464">
+          <mxGeometry x="550.0048809523805" y="211.81100834909392" width="352.2126785714281" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-634" value="Dispatcher Role" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-633">
+          <mxGeometry x="-16" width="82.87357142857138" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-635" value="col-form-label" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-633">
+          <mxGeometry x="118.92338095238068" width="258.28929761904743" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
