@@ -1629,7 +1629,7 @@
         <mxCell id="wYJrxyhoSdgwNmsz03KT-1002" value="DONE" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#1BA0B2;strokeColor=#188C9C;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1001">
           <mxGeometry width="238.67340241796197" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wYJrxyhoSdgwNmsz03KT-1028" value="" style="group;fontSize=14;fillColor=none;fontColor=#333333;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-1028" value="" style="group;fontSize=15;fillColor=none;fontColor=#333333;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="4160" y="2040" width="1670" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="wYJrxyhoSdgwNmsz03KT-1029" value="Job Details" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1028">
@@ -1801,7 +1801,7 @@
         <mxCell id="wYJrxyhoSdgwNmsz03KT-1197" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;glass=0;shadow=1;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1028">
           <mxGeometry x="1420" y="90.25" width="238.03" height="829.75" as="geometry" />
         </mxCell>
-        <mxCell id="wYJrxyhoSdgwNmsz03KT-1198" value="User Feedback and logs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1028">
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-1198" value="Users Feedback and logs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1028">
           <mxGeometry x="1430" y="108" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wYJrxyhoSdgwNmsz03KT-1199" value="First task started" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#64BBE2;arcSize=11;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1028">
