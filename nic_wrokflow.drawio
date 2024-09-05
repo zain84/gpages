@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="1969" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="7500" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2331" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="7500" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1632,7 +1632,7 @@
         <mxCell id="wYJrxyhoSdgwNmsz03KT-1028" value="" style="group;fontSize=15;fillColor=none;fontColor=#333333;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="4160" y="2040" width="1670" height="1010" as="geometry" />
         </mxCell>
-        <mxCell id="wYJrxyhoSdgwNmsz03KT-1029" value="Job Details" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1028">
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-1029" value="Job Details" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=19;spacing=15;spacingTop=-5;fontStyle=1" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1028">
           <mxGeometry width="1670.0000000000002" height="1009.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="wYJrxyhoSdgwNmsz03KT-1132" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#FBEBEA;strokeColor=#b85450;glass=0;shadow=1;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
@@ -1711,7 +1711,7 @@
         <mxCell id="wYJrxyhoSdgwNmsz03KT-1148" value="&amp;nbsp; Job Details" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
           <mxGeometry x="74" y="442" width="1316" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wYJrxyhoSdgwNmsz03KT-1149" value="Details and info based job category and follow up reasons" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
+        <mxCell id="wYJrxyhoSdgwNmsz03KT-1149" value="Details and info based job category and follow up reasons" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
           <mxGeometry x="292" y="510" width="658" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wYJrxyhoSdgwNmsz03KT-1170" value="Job Task 1" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#64BBE2;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="wYJrxyhoSdgwNmsz03KT-1029">
